@@ -1,0 +1,9 @@
+.custom-file-label.custom-file-label-imagen::after{
+    content:"Subir imagen"
+}
+table{
+    min-width: 100%;
+}
+.sidebar{
+    width: 100% !important;
+}
